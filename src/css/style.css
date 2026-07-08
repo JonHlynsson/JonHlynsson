@@ -16,6 +16,25 @@
   --font-mono: "IBM Plex Mono", ui-monospace, monospace;
 
   --wrap: 46rem;
+
+  color-scheme: light;
+}
+
+/* Dark theme — activates with the device's dark mode.
+   Same Icelandic palette, inverted: pale text on basalt. */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ink: #e9ecea;         /* pale mist — text */
+    --paper: #141b22;       /* basalt night — background */
+    --moss: #86bfab;        /* lightened moss for contrast on dark */
+    --moss-deep: #a8d4c3;   /* hover state */
+    --mist: #26303a;        /* panels, dividers */
+    --muted: #9aa6ae;       /* secondary text */
+
+    color-scheme: dark;
+  }
+  pre { background: #0c1116; }
+  .ridge path { opacity: 0.9; }
 }
 
 * { box-sizing: border-box; }
