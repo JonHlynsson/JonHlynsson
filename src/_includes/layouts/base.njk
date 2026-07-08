@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if title %}{{ title }} · {{ site.name }}{% else %}{{ site.name }} | Clinical Psychology Researcher{% endif %}</title>
+  <meta name="description" content="{{ description or site.description }}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }} — Blog" href="/feed.xml">
+  <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+  <meta property="og:title" content="{% if title %}{{ title }}{% else %}{{ site.name }}{% endif %}">
+  <meta property="og:description" content="{{ description or site.description }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:type" content="{% if tags and 'posts' in tags %}article{% else %}website{% endif %}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="/">
+        <span class="brand-name">{{ site.name }}</span>
+        <span class="brand-tagline">{{ site.tagline }}</span>
+      </a>
+      <nav class="site-nav" aria-label="Main navigation">
+        <button class="nav-toggle" aria-expanded="false" aria-controls="nav-list">Menu</button>
+        <ul id="nav-list" class="nav-list">
+          {% for item in site.nav %}
+          <li><a href="{{ item.url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.label }}</a></li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </div>
+    {# Signature element: a ridge line echoing the Laugavegurinn elevation profile #}
+    <svg class="ridge" viewBox="0 0 1200 40" preserveAspectRatio="none" aria-hidden="true">
+      <path d="M0,34 L80,30 L140,22 L210,26 L290,12 L340,18 L420,8 L500,16 L560,10 L640,20 L720,6 L800,14 L870,10 L950,24 L1030,18 L1110,28 L1200,32" fill="none" />
+    </svg>
+  </header>
+
+  <main id="main" class="wrap">
+    {{ content | safe }}
+  </main>
+
+  <footer class="site-footer">
+    <svg class="ridge ridge-footer" viewBox="0 0 1200 40" preserveAspectRatio="none" aria-hidden="true">
+      <path d="M0,34 L80,30 L140,22 L210,26 L290,12 L340,18 L420,8 L500,16 L560,10 L640,20 L720,6 L800,14 L870,10 L950,24 L1030,18 L1110,28 L1200,32" fill="none" />
+    </svg>
+    <div class="wrap footer-inner">
+      <p>© <span id="year"></span> {{ site.name }}. Built with <a href="https://www.11ty.dev/">Eleventy</a>, hosted on <a href="https://pages.github.com/">GitHub Pages</a>.</p>
+      <p class="footer-links">
+        <a href="{{ site.linkedin }}">LinkedIn</a>
+        <a href="{{ site.instagram }}">Instagram</a>
+        <a href="/feed.xml">RSS</a>
+      </p>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+    const toggle = document.querySelector('.nav-toggle');
+    const list = document.querySelector('.nav-list');
+    toggle.addEventListener('click', () => {
+      const open = toggle.getAttribute('aria-expanded') === 'true';
+      toggle.setAttribute('aria-expanded', String(!open));
+      list.classList.toggle('open', !open);
+    });
+  </script>
+</body>
+</html>

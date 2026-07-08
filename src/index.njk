@@ -1,0 +1,25 @@
+---
+layout: layouts/base.njk
+---
+<section class="hero">
+  <h1>Science and lived experience of <em>resilience, recovery, and performance</em>.</h1>
+  <p>I am a licensed psychologist and PhD researcher at Stockholm University. My work focuses on obsessive-compulsive disorder, digital mental health interventions, and the psychology of performance.</p>
+  <p>As an endurance runner, I bring both science and lived experience to questions of resilience, recovery, and human performance.</p>
+  <div class="hero-links">
+    <a href="{{ site.linkedin }}">Follow on LinkedIn</a>
+    <a href="{{ site.instagram }}">Follow on Instagram</a>
+    <a href="/feed.xml">Subscribe via RSS</a>
+  </div>
+</section>
+
+<h2 class="section-label">Latest writing</h2>
+<ul class="post-list">
+  {% for post in collections.posts | head(5) %}
+  <li>
+    <span class="post-meta"><time datetime="{{ post.date | isoDate }}">{{ post.date | readableDate }}</time></span>
+    <h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+    <p>{{ post.data.description or (post.templateContent | excerpt) }}</p>
+  </li>
+  {% endfor %}
+</ul>
+<a class="all-posts-link" href="/blog/">All posts →</a>

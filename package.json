@@ -1,0 +1,14 @@
+{
+  "name": "jonhlynsson.com",
+  "version": "1.0.0",
+  "description": "Personal website of Jón Ingi Hlynsson — static site built with Eleventy",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "@11ty/eleventy-plugin-rss": "^2.0.2"
+  }
+}

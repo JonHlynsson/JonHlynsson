@@ -1,0 +1,13 @@
+---
+layout: layouts/base.njk
+---
+<article>
+  <h1>{{ title }}</h1>
+  <span class="post-meta"><time datetime="{{ page.date | isoDate }}">{{ page.date | readableDate }}</time>{% if author %} · {{ author }}{% endif %}</span>
+  {{ content | safe }}
+  {% if postTags %}
+  <div class="tag-row">
+    {% for t in postTags %}<span class="tag">{{ t }}</span>{% endfor %}
+  </div>
+  {% endif %}
+</article>
