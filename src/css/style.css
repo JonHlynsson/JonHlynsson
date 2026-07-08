@@ -23,8 +23,9 @@
 
 /* Dark theme — activates with the device's dark mode.
    Same Icelandic palette, inverted: pale text on basalt. */
+/* Dark theme tokens (shared by system preference and manual toggle) */
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme="light"]) {
     --ink: #e9edf2;         /* text */
     --heading: #c7d6e8;     /* pale navy for headings */
     --paper: #10161e;       /* navy-black background */
@@ -35,9 +36,30 @@
 
     color-scheme: dark;
   }
-  pre { background: #0c1116; }
-  .ridge path { opacity: 0.9; }
+  :root:not([data-theme="light"]) pre { background: #0c1116; }
+  :root:not([data-theme="light"]) .ridge path { opacity: 0.9; }
 }
+:root[data-theme="dark"] {
+    --ink: #e9edf2;         /* text */
+    --heading: #c7d6e8;     /* pale navy for headings */
+    --paper: #10161e;       /* navy-black background */
+    --moss: #9BB2CE;        /* links — steel blue */
+    --moss-deep: #c1d2e4;   /* hover */
+    --mist: #1f2937;        /* panels, dividers */
+    --muted: #97a3b3;       /* secondary text */
+
+    color-scheme: dark;
+}
+:root[data-theme="dark"] pre { background: #0b1017; }
+:root[data-theme="dark"] .ridge path { opacity: 0.9; }
+
+/* toggle button */
+.theme-toggle {
+  background: none; border: 1px solid var(--mist); border-radius: 50%;
+  width: 2rem; height: 2rem; cursor: pointer; font-size: 0.95rem;
+  line-height: 1; color: var(--ink); flex-shrink: 0;
+}
+.theme-toggle:hover { border-color: var(--moss); }
 
 * { box-sizing: border-box; }
 
@@ -315,3 +337,4 @@ th { font-family: var(--font-display); font-weight: 600; background: var(--mist)
   .hero-split { flex-direction: column-reverse; align-items: flex-start; }
   .hero-portrait { width: 170px; }
 }
+.site-nav { display: flex; align-items: center; gap: 0.9rem; flex-wrap: wrap; }
