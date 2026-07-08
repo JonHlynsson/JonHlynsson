@@ -54,9 +54,9 @@ Atli Valur Jóhannson & **Jón Ingi Hlynsson**. (2021). [Framsetningaráhrif tö
 
 ## Professional and Research Experience
 
-***2025–Present***: Assistant Researcher, Reykjavík University, Iceland.
-
 ***2024–Present***: Co-supervisor of master's theses at Stockholm University.
+
+***2025–2026***: Assistant Researcher, Reykjavík University, Iceland
 
 ***2023–2025***: Research Assistant ([EPIC-SAD study](https://www.unak.is/english/research/research-projects/epic-sad-study-1)), responsible for administering the Mini International Neuropsychiatric Interview (MINI), University of Akureyri, Iceland.
 
