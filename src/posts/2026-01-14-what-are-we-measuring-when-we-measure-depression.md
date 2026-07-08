@@ -1,13 +1,12 @@
 ---
-title: What Are We Measuring When We Measure Depression?
-description: The dominant treatment for depression changes the very indicators used to define and measure the disorder — a serious problem for construct validity.
+title: "What Are We Measuring When We Measure Depression?"
 date: 2026-01-14
-permalink: /what-are-we-measuring-when-we-measure-depression/
 postTags: [clinical psychology]
 ---
-We still do not have a clear account of what depression is at the level that matters for theory or treatment. Not fully, at least. That said, recent integrative work on difficult-to-treat depression, such as Stephen Barton's, is genuinely promising.
 
-![Depression measurement](https://i0.wp.com/jonhlynsson.com/wp-content/uploads/2025/12/img_9948-1.jpg?resize=1021%2C486&ssl=1)
+We still do not have a clear account of what depression is at the level that matters for theory or treatment. Not fully, at least. That said, recent integrative work on difficult-to-treat depression, such as Stephen Barton’s, is genuinely promising.
+
+![](https://jonhlynsson.com/wp-content/uploads/2025/12/img_9948-1.jpg)
 
 Despite this uncertainty, depression is routinely treated with SSRIs.
 
@@ -21,12 +20,22 @@ Taken together, this may help explain why progress in depression treatment has b
 
 This is why we argue, in our paper, that it may be time to return to first principles.
 
-![Paper](https://i0.wp.com/jonhlynsson.com/wp-content/uploads/2025/12/img_9947.jpg?resize=935%2C1024&ssl=1)
+<figure>
 
-*Hlynsson, J. I., Skúlason, S., Andersson, G., & Carlbring, P. (2025). Why are we still using the PHQ-9? A Historical Review and Psychometric Evaluation of Measurement Invariance. Psychiatric Quarterly. <https://doi.org/10.1007/s11126-025-10208-9>*
+![](https://jonhlynsson.com/wp-content/uploads/2025/12/img_9947-935x1024.jpg)
+
+<figcaption>
+
+Hlynsson, J. I., Skúlason, S., Andersson, G., & Carlbring, P. (2025). Why are we still using the PHQ-9? A Historical Review and Psychometric Evaluation of Measurement Invariance. _Psychiatric Quarterly_. [https://doi.org/10.1007/s11126-025-10208-9](https://doi.org/10.1007/s11126-025-10208-9)
+
+</figcaption>
+
+</figure>
 
 Independent qualitative research on depression could help clarify its core components, their boundaries, and how they relate to one another before we continue refining tools built on shaky foundations.
 
-If you are interested, I have written more about SSRIs here: [The Efficacy of SSRIs: Are We Truly Treating Depression?](/the-efficacy-of-ssris-are-we-truly-treating-depression/)
+If you are interested, I have written more about SSRIs here:
 
-And Stephen Barton's book is an excellent example of the kind of integrative thinking the field needs: [CBT for Depression: An Integrated Approach](https://uk.sagepub.com/en-gb/eur/cbt-for-depression-an-integrated-approach/book255214)
+https://jonhlynsson.com/the-efficacy-of-ssris-are-we-truly-treating-depression/
+
+And Stephen Barton’s book is an excellent example of the kind of integrative thinking the field needs: [https://uk.sagepub.com/en-gb/eur/cbt-for-depression-an-integrated-approach/book255214](https://uk.sagepub.com/en-gb/eur/cbt-for-depression-an-integrated-approach/book255214)

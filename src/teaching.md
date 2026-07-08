@@ -1,12 +1,12 @@
 ---
 layout: layouts/page.njk
 title: Teaching
-description: Teaching materials and courses by Jón Ingi Hlynsson.
+description: Teaching materials, courses, and thesis supervision by Jón Ingi Hlynsson.
 permalink: /teaching/
 ---
-Materials from my teaching are collected here.
+Materials from my roles as a teacher and supervisor are collected here.
 
-- [Personality psychology](https://jonhlynsson.github.io/personality/) — course materials
-- [Icelandic](https://jonhlynsson.github.io/Icelandic) — language learning materials
-
-<!-- Add new teaching entries as plain Markdown list items. -->
+- [Personality Psychology](https://jonhlynsson.github.io/personality/) — course materials (University of Iceland)
+- [Icelandic](https://jonhlynsson.github.io/Icelandic/) — native language teaching materials
+- [Thesis Supervision](/thesis-supervision/) — theses I have co-supervised
+- [History of OCD](/history-of-ocd/) — an educational resource on obsessive-compulsive disorder
