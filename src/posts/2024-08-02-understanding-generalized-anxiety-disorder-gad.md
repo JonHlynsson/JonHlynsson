@@ -10,7 +10,7 @@ In this post, I explore the characteristics of GAD, the role of worrying, and tr
 
 <figure>
 
-![](https://jonhlynsson.com/wp-content/uploads/2024/07/image-24.png)
+![](/assets/wp/2024-07-image-24.png)
 
 <figcaption>
 
@@ -28,7 +28,7 @@ One of the diagnostic criteria for GAD is irritability, which is reliably predic
 
 <figure>
 
-![](https://jonhlynsson.com/wp-content/uploads/2024/07/image-25.png)
+![](/assets/wp/2024-07-image-25.png)
 
 <figcaption>
 

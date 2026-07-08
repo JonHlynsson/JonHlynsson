@@ -27,7 +27,7 @@ This list is definitely not exhaustive, and I felt privileged to be part of the 
 
 I gave a presentation on the importance of measurement in digital mental health (see [here](https://www.esrii.org/files/SweSRII2024-Book?r=2.pdf), page 13).
 
-![](https://jonhlynsson.com/wp-content/uploads/2024/05/img_2721-4-1-1024x581.jpg)
+![](/assets/wp/2024-05-img_2721-4-1-1024x581.jpg)
 
 I argue that it is immensely important to get the measurement right. That means that when assessing something, you must keep at least two questions in mind: What are you measuring and why are you measuring it?
 
@@ -43,7 +43,7 @@ All of these questions are relevant when choosing measurement instruments, and n
 
 <figure>
 
-![](https://jonhlynsson.com/wp-content/uploads/2024/05/img_2693-copy-2-1-1024x835.jpg)
+![](/assets/wp/2024-05-img_2693-copy-2-1-1024x835.jpg)
 
 <figcaption>
 
@@ -59,7 +59,7 @@ I want to give a big shoutout to Stockholm University for being an amazing host,
 
 <figure>
 
-![](https://jonhlynsson.com/wp-content/uploads/2024/05/img_2717-1-1024x577.png)
+![](/assets/wp/2024-05-img_2717-1-1024x577.png)
 
 <figcaption>
 

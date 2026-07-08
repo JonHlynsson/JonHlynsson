@@ -4,7 +4,7 @@ date: 2024-10-06
 postTags: [my phd journey]
 ---
 
-I recently had the opportunity to attend an [intensive two-day workshop](https://jonhlynsson.com/wp-content/uploads/2024/10/ocd-endurmenntun.pdf) on Obsessive-Compulsive Disorder (OCD)[1](#27f2476e-0c09-4064-af5b-7babe9f10261). The workshop, lead by [Brynjar Halldorsson](https://scholar.google.com/citations?user=qIpxsE4AAAAJ&hl=en), provided me with valuable insights and practical strategies for treating this complex condition. In this blog post, I'll share some key takeaways that can benefit both clinicians and individuals struggling with OCD.
+I recently had the opportunity to attend an [intensive two-day workshop](/assets/wp/2024-10-ocd-endurmenntun.pdf) on Obsessive-Compulsive Disorder (OCD)[1](#27f2476e-0c09-4064-af5b-7babe9f10261). The workshop, lead by [Brynjar Halldorsson](https://scholar.google.com/citations?user=qIpxsE4AAAAJ&hl=en), provided me with valuable insights and practical strategies for treating this complex condition. In this blog post, I'll share some key takeaways that can benefit both clinicians and individuals struggling with OCD.
 
 **TABLE OF CONTENTS**
 
@@ -40,7 +40,7 @@ According to the American Psychiatric Association, OCD is defined by the followi
 
 <figure>
 
-![](https://jonhlynsson.com/wp-content/uploads/2024/10/image-4.png)
+![](/assets/wp/2024-10-image-4.png)
 
 <figcaption>
 
@@ -58,7 +58,7 @@ Below are some examples of common symptom patterns that individuals presenting w
 
 <figure>
 
-![](https://jonhlynsson.com/wp-content/uploads/2024/10/image-3.png)
+![](/assets/wp/2024-10-image-3.png)
 
 <figcaption>
 
@@ -84,7 +84,7 @@ One of the fundamental aspects of OCD is the misinterpretation of intrusive thou
 
 <figure>
 
-![OCD simple case formulation](https://jonhlynsson.com/wp-content/uploads/2024/10/ocd-kortlagning.png)
+![OCD simple case formulation](/assets/wp/2024-10-ocd-kortlagning.png)
 
 <figcaption>
 
@@ -203,7 +203,7 @@ I am reading [Cognitive Behaviour Therapy for Obsessive-compulsive Disorder](htt
 
 <figure>
 
-![](https://jonhlynsson.com/wp-content/uploads/2024/10/image-5.png)
+![](/assets/wp/2024-10-image-5.png)
 
 <figcaption>
 
@@ -224,7 +224,7 @@ I came across a useful paper by [Grant (2014)](https://doi.org/10.1056/nejmcp140
 
 <figure>
 
-![](https://jonhlynsson.com/wp-content/uploads/2024/10/image-2.png)
+![](/assets/wp/2024-10-image-2.png)
 
 <figcaption>
 

@@ -18,7 +18,7 @@ Rory O'Connor introduced the concept of the 4 C's of suicide prevention to me ea
 
 <figure>
 
-![](https://jonhlynsson.com/wp-content/uploads/2024/10/img_3539-1-1024x575.jpg)
+![](/assets/wp/2024-10-img_3539-1-1024x575.jpg)
 
 <figcaption>
 
@@ -56,7 +56,7 @@ The primary importance of the plan lies in its ability to empower individuals to
 
 <figure>
 
-![](https://jonhlynsson.com/wp-content/uploads/2024/07/image-19.png)
+![](/assets/wp/2024-07-image-19.png)
 
 <figcaption>
 
@@ -74,7 +74,7 @@ The goal of the Stanley-Brown Safety Plan is to make individuals more aware of t
 
 <figure>
 
-![](https://jonhlynsson.com/wp-content/uploads/2024/07/image-18-1024x599.png)
+![](/assets/wp/2024-07-image-18-1024x599.png)
 
 <figcaption>
 
@@ -149,7 +149,7 @@ If you or someone you know is struggling or in crisis, help is available.
 
 <figure>
 
-![](https://jonhlynsson.com/wp-content/uploads/2024/10/img_3538-1-720x1024.jpg)
+![](/assets/wp/2024-10-img_3538-1-720x1024.jpg)
 
 <figcaption>
 

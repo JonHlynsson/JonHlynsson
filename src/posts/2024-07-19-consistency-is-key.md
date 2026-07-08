@@ -24,7 +24,7 @@ The short and obvious answer is of course **yes**.
 
 But here's the thing: Being adequately prepped for class through reading before class is a binary variable. You either read or you didn't read.
 
-![](https://jonhlynsson.com/wp-content/uploads/2024/07/img_2999-1.jpg)
+![](/assets/wp/2024-07-img_2999-1.jpg)
 
 For example, if I miscalculate the time it's going to take me to read for one of the three scheduled reading timeboxes on my calendar and that miscalculation leads to me not reading before class, then all discussion about a grand perspective for the reading material goes out the window.
 

@@ -26,7 +26,7 @@ Smelltu á hlekkinn til að skoða vefútgáfu Valentínusarskalans: [https://va
 
 <figure>
 
-![](https://jonhlynsson.com/wp-content/uploads/2025/02/image-1-1024x473.png)
+![](/assets/wp/2025-02-image-1-1024x473.png)
 
 <figcaption>
 

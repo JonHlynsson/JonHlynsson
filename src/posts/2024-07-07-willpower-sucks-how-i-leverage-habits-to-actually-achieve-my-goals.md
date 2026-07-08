@@ -40,7 +40,7 @@ For instance, if I have a paper that I need to get through, I usually timeblock 
 
 <figure>
 
-![](https://jonhlynsson.com/wp-content/uploads/2024/07/img_2974-2-1.png)
+![](/assets/wp/2024-07-img_2974-2-1.png)
 
 <figcaption>
 

@@ -46,4 +46,4 @@ https://lifogheil.hi.is/rannsokn/flytum-okkur-haegt-neikvaed-ahrif-hugvikkandi-e
 
 I'll be speaking in Hall A at the Hilton Hotel in the psychology time slot between 13:50 and 14:50. If you're in Iceland, I hope to see you there!
 
-![](https://jonhlynsson.com/wp-content/uploads/2024/10/image-8.png)
+![](/assets/wp/2024-10-image-8.png)

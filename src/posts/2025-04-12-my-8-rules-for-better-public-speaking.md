@@ -46,7 +46,7 @@ So, the next time you step up to the podium, take a deep breath, focus on one pe
 
 <figure>
 
-![](https://jonhlynsson.com/wp-content/uploads/2025/04/img_2527-1024x768.jpg)
+![](/assets/wp/2025-04-img_2527-1024x768.jpg)
 
 <figcaption>
 

@@ -8,13 +8,13 @@ I have recently been wrestling with differential diagnosis, particularly within 
 
 Some diagnoses are relatively straightforward. Social anxiety disorder, for instance, has clear telltale signs. A disproportionate fear of social judgment, embarrassment, and performance situations usually points in a single direction, assuming the person is actually seeking treatment for these problems.
 
-![](https://jonhlynsson.com/wp-content/uploads/2025/12/img_9943.jpg)
+![](/assets/wp/2025-12-img_9943.jpg)
 
 Other presentations are far less clean. Repetitive, distressing thoughts could indicate OCD, health anxiety, or generalized anxiety. The thematic differences matter, but when you look at gold-standard treatment, the overlap is striking.
 
 Across these conditions, the therapeutic sequence is largely the same.
 
-![](https://jonhlynsson.com/wp-content/uploads/2025/12/img_9946.jpg)
+![](/assets/wp/2025-12-img_9946.jpg)
 
 First, we establish a therapeutic bond. That means personal alliance and task alliance. Without both, nothing that follows really sticks.
 
@@ -26,7 +26,7 @@ Throughout this process, I am always looking for function. If I cannot make sens
 
 Avoidance makes sense if I believe speaking up will lead to humiliation. Excessive handwashing makes sense if I believe I am personally responsible for infecting my loved ones. The behavior is not irrational. The belief system is doing exactly what it is supposed to do.
 
-![](https://jonhlynsson.com/wp-content/uploads/2025/12/img_9944.jpg)
+![](/assets/wp/2025-12-img_9944.jpg)
 
 Once we have alliance, shared understanding, and a functional model that actually makes sense, we are ready to test beliefs.
 
@@ -38,7 +38,7 @@ And that foundation is the therapeutic relationship.
 
 This is where my thinking aligns strongly with a Rogerian stance. Change requires more than techniques. The patient needs to acknowledge the problem, speak openly about it, and believe that a different way of living is possible. Without psychological safety and genuine collaboration, none of the technical work matters.
 
-![](https://jonhlynsson.com/wp-content/uploads/2025/12/img_9945.jpg)
+![](/assets/wp/2025-12-img_9945.jpg)
 
 I began this reflection with differential diagnosis, and as a psychometrician an clinician￼, I care deeply about diagnostic precision. Diagnosis matters for science and for communication.
 

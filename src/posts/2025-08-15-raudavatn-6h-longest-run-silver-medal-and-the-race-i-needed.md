@@ -8,7 +8,7 @@ Rauðavatn Ultra was held for the first time last week and I competed. What a ra
 
 <figure>
 
-![](https://jonhlynsson.com/wp-content/uploads/2025/08/img_6848.png)
+![](/assets/wp/2025-08-img_6848.png)
 
 <figcaption>
 
@@ -22,7 +22,7 @@ After the Stockholm Marathon, I had unfinished business. That marathon left me w
 
 <figure>
 
-![](https://jonhlynsson.com/wp-content/uploads/2025/08/img_6849.png)
+![](/assets/wp/2025-08-img_6849.png)
 
 <figcaption>
 
@@ -38,7 +38,7 @@ I opened at 5:15-5:30 per km, sitting in solid mid-high Zone 2 (150-155 bpm) wit
 
 <figure>
 
-![](https://jonhlynsson.com/wp-content/uploads/2025/08/img_6850.png)
+![](/assets/wp/2025-08-img_6850.png)
 
 <figcaption>
 
@@ -58,7 +58,7 @@ With 90 minutes left, I told myself, “_only_ _three 30-minute runs left, and I
 
 <figure>
 
-![](https://jonhlynsson.com/wp-content/uploads/2025/08/img_6855.png)
+![](/assets/wp/2025-08-img_6855.png)
 
 <figcaption>
 
@@ -74,7 +74,7 @@ My heart rate actually trended down in the later hours, a sign that the fade was
 
 <figure>
 
-![](https://jonhlynsson.com/wp-content/uploads/2025/08/image.jpg)
+![](/assets/wp/2025-08-image.jpg)
 
 <figcaption>
 
@@ -98,7 +98,7 @@ Recovery starts now, but this race will be one I carry into everything that come
 
 <figure>
 
-![](https://jonhlynsson.com/wp-content/uploads/2025/08/img_6856-576x1024.png)
+![](/assets/wp/2025-08-img_6856-576x1024.png)
 
 <figcaption>
 
@@ -110,7 +110,7 @@ My Strava didn't capture the entirety of the official distance.
 
 <figure>
 
-![](https://jonhlynsson.com/wp-content/uploads/2025/08/img_6857-1024x284.jpg)
+![](/assets/wp/2025-08-img_6857-1024x284.jpg)
 
 <figcaption>
 

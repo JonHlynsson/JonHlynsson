@@ -46,7 +46,7 @@ The financial burden of untreated psychological problems far outweighs the start
 
 **Do better!**
 
-![transdiagnostic therapy](https://jonhlynsson.com/wp-content/uploads/2024/03/dcb5e705-d328-4049-9209-8b7787a0aa30.jpg?w=1024)
+![transdiagnostic therapy](/assets/wp/2024-03-dcb5e705-d328-4049-9209-8b7787a0aa30.jpg)
 
 #### References
 

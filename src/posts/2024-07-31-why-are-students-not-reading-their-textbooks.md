@@ -6,7 +6,7 @@ postTags: [productivity]
 
 The reading habits of higher education students seem to be suboptimal. Reading materials are sometimes not engaged with, read haphazardly, or not at all. Psychological explanations for this behavior include the overjustification effect (i.e., an expected external incentive decreases intrinsic motivation), self-handicapping (i.e., behaviorally sabotaging the potential for achievement or excusing poor performance a priori), poor self-regulated learning (insufficient mastery of cognitive strategies, metacognition, or motivation), and individual differences in reading comprehension related to prior knowledge of effective reading etiquette.
 
-![](https://jonhlynsson.com/wp-content/uploads/2024/07/image-38-300x225.png)
+![](/assets/wp/2024-07-image-38-300x225.png)
 
 This post examines these explanations and proposes strategies to alleviate bad reading habits and foster positive reading behavior. A promising way to encourage reading behavior is the cognitive strategy of defensive pessimism (i.e., envisioning anxiety-provoking potential undesirable outcomes and proactively planning for them to not actualize) is discussed in detail. Other solutions include self-affirmations, literate circles, and facilitation of intrinsic motivation. Lastly, socioeconomic factors are briefly considered.
 
@@ -104,7 +104,7 @@ To sum up this overview of the benefits of using defensive pessimism, there is a
 
 Engaging with reading material in a meaningful way, questioning it, and applying the knowledge within it can facilitate understanding the material. Such engagement is in other words the definition of active learning (APA Dictionary of Psychology, 2014). One way to encourage active learning is the arrangement of students in literate circles (West, 2018). Literate circles can be thought of as book clubs but in an educational environment. Students are split up into groups and tasked with taking notes on a predetermined topic or reading material that is to be discussed in class. A template for effective note-taking is provided to students which should be submitted 24 hours ahead of class. Students’ notes are then briefly commented on by the teacher (i.e., feedback is given with regards to the quality of the notes and their utility in relation to the subject matter) and implemented, by the teacher, into the lesson, thus giving students the feeling of their notes being purposeful.
 
-![](https://jonhlynsson.com/wp-content/uploads/2024/07/image-28-300x171.png)
+![](/assets/wp/2024-07-image-28-300x171.png)
 
 As noted by West (2018), students’ notetaking is supported and built upon in an educational environment that makes use of literate circles and serves as a motivator to come prepared to class. By giving students the responsibility for taking notes on a certain topic, scaffolding their current abilities, and making their work meaningful in the context of the course, students claim to enjoy the class to a higher degree. Literate circles include peer discussions and by supplementing them with responsible notetaking, discussions are less likely to be superficial. Furthermore, the usage of literate circles could have lasting effects in the sense that students get a feeling of how effective peer groups operate and deepen their understanding, thus making the formation of analogous groups in classes that do not employ literate circles more likely.
 

@@ -14,7 +14,7 @@ I'm extremely grateful for this opportunity and thankful to the organizers of th
 
 <figure>
 
-![Sálfræðiþing](https://jonhlynsson.com/wp-content/uploads/2024/03/img_0986.jpg?w=1024)
+![Sálfræðiþing](/assets/wp/2024-03-img_0986.jpg)
 
 <figcaption>
 

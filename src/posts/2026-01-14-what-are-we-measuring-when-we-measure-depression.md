@@ -6,7 +6,7 @@ postTags: [clinical psychology]
 
 We still do not have a clear account of what depression is at the level that matters for theory or treatment. Not fully, at least. That said, recent integrative work on difficult-to-treat depression, such as Stephen Barton’s, is genuinely promising.
 
-![](https://jonhlynsson.com/wp-content/uploads/2025/12/img_9948-1.jpg)
+![](/assets/wp/2025-12-img_9948-1.jpg)
 
 Despite this uncertainty, depression is routinely treated with SSRIs.
 
@@ -22,7 +22,7 @@ This is why we argue, in our paper, that it may be time to return to first princ
 
 <figure>
 
-![](https://jonhlynsson.com/wp-content/uploads/2025/12/img_9947-935x1024.jpg)
+![](/assets/wp/2025-12-img_9947-935x1024.jpg)
 
 <figcaption>
 

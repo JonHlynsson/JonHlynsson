@@ -6,7 +6,7 @@ postTags: [blog rant]
 
 We all have different experiences in the world. Sometimes our beliefs do not align with reality, and we may hold fundamental core beliefs that contradict how others perceive the world. This is exemplified in the quote, "**_the map is not the territory_**."
 
-![](https://jonhlynsson.com/wp-content/uploads/2024/11/img_3627-1.jpg)
+![](/assets/wp/2024-11-img_3627-1.jpg)
 
 In short, even though we may have a certain belief set and perceive the world in a specific way, we may have cognitive presuppositions that shape our central cognitive map. The nature of a cognitive map is that it is ever-evolving and always changing.
 

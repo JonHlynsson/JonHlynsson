@@ -51,7 +51,7 @@ The outcome of those races won’t be decided on race day; it will be decided by
 
 <figure>
 
-![](https://jonhlynsson.com/wp-content/uploads/2025/10/15973_20250531_132155_501562275_original-682x1024.jpg)
+![](/assets/wp/2025-10-15973_20250531_132155_501562275_original-682x1024.jpg)
 
 <figcaption>
 

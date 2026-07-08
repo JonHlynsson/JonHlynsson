@@ -10,7 +10,7 @@ Once you look past the content of thoughts and focus on the behavior, you realiz
 
 Now here's a way to visualize it:
 
-![](https://jonhlynsson.com/wp-content/uploads/2025/12/img_9792.jpg)
+![](/assets/wp/2025-12-img_9792.jpg)
 
 > #### Someone with social anxiety pulls their hand back.
 
@@ -32,7 +32,7 @@ This is the argument that we make in our recent review.
 
 <figure>
 
-![](https://jonhlynsson.com/wp-content/uploads/2025/12/img_9793-775x1024.jpg)
+![](/assets/wp/2025-12-img_9793-775x1024.jpg)
 
 <figcaption>
 

@@ -26,7 +26,7 @@ In other words, this creates a negative feedback loop: Depressed mood decreases 
 
 <figure>
 
-![](https://jonhlynsson.com/wp-content/uploads/2024/12/image.png)
+![](/assets/wp/2024-12-image.png)
 
 <figcaption>
 

@@ -6,7 +6,7 @@ postTags: [workshops]
 
 Social anxiety disorder is a complex condition characterized by a persistent fear of social or performance situations where one might be judged or scrutinized by others. This anxiety can provoke panic attacks and lead to significant avoidance behaviors, disrupting daily life and social interactions.
 
-I recently attended a [workshop](https://jonhlynsson.com/wp-content/uploads/2024/04/Clark-certificate-Jon-Ingi-Hlynsson.pdf "Clark certificate – Jón Ingi Hlynsson") led by Professor David M. Clark, a prominent figure in the field of clinical psychology and a pioneer in devising effective psychological treatments. Professor Clark, alongside Adrian Wells, developed a groundbreaking model for social anxiety that is now considered the gold-standard for understanding this disorder. The model not only sheds light on the dynamics of social anxiety but also emphasizes the necessity of an idiosyncratic formulation for each client.
+I recently attended a [workshop](/assets/wp/2024-04-Clark-certificate-Jon-Ingi-Hlynsson.pdf "Clark certificate – Jón Ingi Hlynsson") led by Professor David M. Clark, a prominent figure in the field of clinical psychology and a pioneer in devising effective psychological treatments. Professor Clark, alongside Adrian Wells, developed a groundbreaking model for social anxiety that is now considered the gold-standard for understanding this disorder. The model not only sheds light on the dynamics of social anxiety but also emphasizes the necessity of an idiosyncratic formulation for each client.
 
 The workshop presented the Clark and Wells model of social anxiety and illustrated the key treatment procedures that have been developed from the model. They include: self-focused attention and safety behaviors experiential exercise, video-feedback, externally-focused attention training, behavioral experiments, and procedures (discrimination training and memory re-scripting) for addressing early traumatic experiences that influence patients’ current behavior in social situations.
 
@@ -45,7 +45,7 @@ The Clark and Wells (1995) model of social anxiety has revolutionized the unders
 
 <figure>
 
-![](https://jonhlynsson.com/wp-content/uploads/2024/04/clarkandwells.png)
+![](/assets/wp/2024-04-clarkandwells.png)
 
 <figcaption>
 
@@ -61,7 +61,7 @@ The Clark and Wells (1995) model
 
 <figure>
 
-[![](https://jonhlynsson.com/wp-content/uploads/2024/04/redSAD.png)](https://oxcadatresources.com/wp-content/uploads/2020/09/BABCPExperimentshandouts-1.pdf)
+[![](/assets/wp/2024-04-redSAD.png)](https://oxcadatresources.com/wp-content/uploads/2020/09/BABCPExperimentshandouts-1.pdf)
 
 <figcaption>
 
@@ -142,7 +142,7 @@ As we continue to advance in our understanding and treatment of mental health di
 
 It was an honor to meet and learn from Professor Clark. It was an experience tha enriched my perspective of cognitive therapy and will undoubtedly shape my future practices in mental health care. As a fan of his work, having the opportunity to run my models of understanding of anxiety by him was invaluable. I even shamelessly got my picture taken with him!
 
-![](https://jonhlynsson.com/wp-content/uploads/2024/04/img_2477-e1713500515194-1024x754.jpg)
+![](/assets/wp/2024-04-img_2477-e1713500515194-1024x754.jpg)
 
 Click [here](https://oxcadatresources.com/social-anxiety-disorder/ "here") to learn more about cognitive therapy for social anxiety disorder on the OxCADAT website!
 

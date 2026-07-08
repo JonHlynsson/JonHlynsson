@@ -13,7 +13,7 @@ According to the [American Psychiatric Association](https://dictionary.apa.org/m
 
 <figure>
 
-![](https://jonhlynsson.com/wp-content/uploads/2024/07/image-37.png)
+![](/assets/wp/2024-07-image-37.png)
 
 <figcaption>
 
@@ -29,7 +29,7 @@ Fundamentally, depression can be understood as an interaction between behavior a
 
 One important aspect of depression is the way behavior and mood can create a negative feedback loop. For instance, if you lose interest in activities you previously enjoyed and find it hard to derive pleasure from rewarding stimuli (such as experiences and activities) your mood is likely to be negatively affected.
 
-![](https://jonhlynsson.com/wp-content/uploads/2024/07/82ea3afb-e6a6-48a4-b56f-0961e25ea287-1.png)
+![](/assets/wp/2024-07-82ea3afb-e6a6-48a4-b56f-0961e25ea287-1.png)
 
 Conversely, if you engage in activities that align with your values and interests, your mood is likely to improve. However, when a person is experiencing a depressed mood and feelings of worthlessness, they are less likely to engage with their environment in accordance with their values and interests, leading to a further decline in mood.
 
@@ -37,7 +37,7 @@ Conversely, if you engage in activities that align with your values and interest
 
 To illustrate this interaction, consider a person who has lost their appetite and struggles with getting enough rest. This individual is likely to feel tired, agitated, or low in energy, making it less likely for them to engage in pleasurable activities. As a result, they may feel more depressed. This lack of engagement with enjoyable activities can induce feelings of worthlessness and guilt, potentially leading to more severe symptoms such as suicidal ideation.
 
-![](https://jonhlynsson.com/wp-content/uploads/2024/07/a31a3b4e-930c-442d-8e0e-129a435b87cf-1.png)
+![](/assets/wp/2024-07-a31a3b4e-930c-442d-8e0e-129a435b87cf-1.png)
 
 This creates a vicious cycle: a depressed mood reduces the likelihood of engaging in behavior, which in turn decreases the pleasure derived from behavior, causing guilt and worthlessness, and further perpetuating the depressed mood.
 
@@ -47,7 +47,7 @@ Breaking this cycle is crucial for managing depression. One effective method is 
 
 <figure>
 
-![](https://jonhlynsson.com/wp-content/uploads/2024/07/img_3063-1-1024x408.jpg)
+![](/assets/wp/2024-07-img_3063-1-1024x408.jpg)
 
 <figcaption>
 
@@ -61,7 +61,7 @@ Individuals can induce changes in their emotional state by intentionally engagin
 
 <figure>
 
-![](https://jonhlynsson.com/wp-content/uploads/2024/07/img_3064-1-1024x498.jpg)
+![](/assets/wp/2024-07-img_3064-1-1024x498.jpg)
 
 <figcaption>
 

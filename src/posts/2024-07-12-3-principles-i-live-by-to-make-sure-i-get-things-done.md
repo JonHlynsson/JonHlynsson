@@ -100,7 +100,7 @@ The Pareto principle ties in nicely with Parkinson’s law. According to the Par
 
 This is why we can safely leverage Parkinson’s law! Most of the heavy lifting in your success is dictated by 20% of your actions.
 
-![](https://jonhlynsson.com/wp-content/uploads/2024/07/image-1024x576.png)
+![](/assets/wp/2024-07-image-1024x576.png)
 
 Here is the thing though… the 20% that are causing 80% of your outcomes are usually the fundamentals!
 

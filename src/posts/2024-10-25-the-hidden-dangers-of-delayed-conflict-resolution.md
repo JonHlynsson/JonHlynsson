@@ -38,7 +38,7 @@ One of the benefits of addressing conflict early is that you achieve a resolutio
 
 To illustrate this, consider a metaphor: If the conflict is like a small snowflake that lands on the top of a large hill, it may start small but can pick up snow as it rolls down. As time passes, it accumulates more and more snow until it becomes a large, unmanageable ball at the bottom of the hill.
 
-![](https://jonhlynsson.com/wp-content/uploads/2024/10/aeebb64a-c58a-430f-b752-b706ec6e4496-42198-000017d760a00c9f_file-300x171.jpg)
+![](/assets/wp/2024-10-aeebb64a-c58a-430f-b752-b706ec6e4496-42198-000017d760a00c9f_file-300x171.jpg)
 
 Applying this to conflict, it is crucial to address issues early rather than delaying them. Initially, the snowflake is small, and we can stop it from rolling further down the hill. We could even stop a medium-sized snowball, but anything larger than that risks becoming unmanageable.
 
