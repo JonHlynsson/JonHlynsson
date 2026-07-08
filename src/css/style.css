@@ -295,3 +295,16 @@ th { font-family: var(--font-display); font-weight: 600; background: var(--mist)
   .nav-list.open { display: flex; }
   .header-inner { align-items: center; }
 }
+
+/* ---------- hero with portrait ---------- */
+.hero-split { display: flex; gap: 2.5rem; align-items: center; }
+.hero-text { flex: 1; }
+.hero-portrait {
+  width: 240px; height: auto; border-radius: 8px; flex-shrink: 0;
+  border: 1px solid var(--mist);
+}
+.credential { font-size: 0.95rem; color: var(--muted); }
+@media (max-width: 640px) {
+  .hero-split { flex-direction: column-reverse; align-items: flex-start; }
+  .hero-portrait { width: 170px; }
+}

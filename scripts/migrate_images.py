@@ -10,7 +10,7 @@ PATTERN = re.compile(
 os.makedirs("src/assets/wp", exist_ok=True)
 mapping = {}  # uploads path -> local site path
 
-files = glob.glob("src/**/*.md", recursive=True) + glob.glob("src/*.md")
+files = glob.glob("src/**/*.md", recursive=True) + glob.glob("src/*.md") + glob.glob("src/**/*.njk", recursive=True)
 for f in set(files):
     for m in PATTERN.finditer(open(f, encoding="utf-8").read()):
         path = m.group(1)
