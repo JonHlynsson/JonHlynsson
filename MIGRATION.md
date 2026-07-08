@@ -1,5 +1,8 @@
 # Migrating your content from WordPress
 
+> **Status (2026-07-08):** Already migrated directly from the live site: the About, Publications, Conferences, and CV pages, plus the 4 most recent blog posts (with their original URLs preserved). **Still to do:** (1) the ~46 older blog posts — use the XML export below; (2) images — the migrated posts currently load images from the old WordPress URLs, which will break when you cancel. Download them (Step 2 does this automatically) into `src/assets/` and update the image links before cancelling; (3) your photo, `cv.pdf`, and credential PDFs into `src/assets/`.
+
+
 Goal: get every blog post, page, and image out of WordPress and into this site's format (one Markdown file per post) before you cancel the plan.
 
 ## Step 1 — Export from WordPress (5 minutes)
@@ -8,7 +11,7 @@ Goal: get every blog post, page, and image out of WordPress and into this site's
 2. **Tools → Export → All content → Download Export File.**
    You get an `.xml` file containing every post and page. **Keep this file forever** — it's your permanent backup even after WordPress is gone.
 3. Also export your **media library**: on WordPress.com, **Tools → Export → Export media library** gives you a zip of all uploaded images and PDFs. (If that option is missing on your plan, see Step 3 for an alternative.)
-4. If you have blog subscribers: **Jetpack → Newsletter → Subscribers → Download as CSV.** You'll want this for Buttondown/follow.it (see SETUP.md).
+4. If you have blog subscribers: **Jetpack → Newsletter → Subscribers → Download as CSV.** You'll want this for Buttondown/follow.it (see README).
 
 ## Step 2 — Convert posts to Markdown (10 minutes, automated)
 
