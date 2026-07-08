@@ -24,6 +24,9 @@ jobs:
           node-version: 22
       - run: npm install
       - run: npm run build
+        env:  # DELETE these 3 lines when switching to the custom domain
+          PATH_PREFIX: /JonHlynsson/
+          SITE_URL: https://jonhlynsson.github.io/JonHlynsson
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site

@@ -1,18 +1,36 @@
-{
+module.exports = {
   "name": "Jón Ingi Hlynsson",
   "tagline": "Psychologist | PhD Researcher | Endurance Runner",
-  "url": "https://jonhlynsson.com",
+  "url": process.env.SITE_URL || "https://jonhlynsson.com",
   "description": "Personal website of Jón Ingi Hlynsson: licensed psychologist and PhD researcher at Stockholm University working on OCD, digital mental health interventions, and the psychology of performance.",
   "author": "Jón Ingi Hlynsson",
   "linkedin": "https://www.linkedin.com/in/jon-ingi-hlynsson",
   "instagram": "https://www.instagram.com/jonhlynsson/",
   "email": "",
   "nav": [
-    { "label": "Blog", "url": "/blog/" },
-    { "label": "Publications", "url": "/publications/" },
-    { "label": "Conferences", "url": "/conferences/" },
-    { "label": "Teaching", "url": "/teaching/" },
-    { "label": "CV", "url": "/cv/" },
-    { "label": "About", "url": "/about/" }
+    {
+      "label": "Blog",
+      "url": "/blog/"
+    },
+    {
+      "label": "Publications",
+      "url": "/publications/"
+    },
+    {
+      "label": "Conferences",
+      "url": "/conferences/"
+    },
+    {
+      "label": "Teaching",
+      "url": "/teaching/"
+    },
+    {
+      "label": "CV",
+      "url": "/cv/"
+    },
+    {
+      "label": "About",
+      "url": "/about/"
+    }
   ]
-}
+};

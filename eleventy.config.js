@@ -1,7 +1,9 @@
 const pluginRss = require("@11ty/eleventy-plugin-rss");
+const { HtmlBasePlugin } = require("@11ty/eleventy");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
+  eleventyConfig.addPlugin(HtmlBasePlugin);
 
   // Copy static assets straight through to the built site
   eleventyConfig.addPassthroughCopy({ "src/css": "css" });
@@ -40,6 +42,7 @@ module.exports = function (eleventyConfig) {
   });
 
   return {
+    pathPrefix: process.env.PATH_PREFIX || "/",
     dir: {
       input: "src",
       output: "_site",
