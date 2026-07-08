@@ -4,16 +4,17 @@
    cool paper, moss green, glacial mist.
    ============================================================ */
 :root {
-  --ink: #1a2430;          /* basalt — headings, body text */
-  --paper: #fafbf9;        /* cool white background */
-  --moss: #33685b;         /* accent — links, ridge line */
-  --moss-deep: #24493f;    /* hover state */
-  --mist: #e6ece8;         /* panels, dividers */
-  --muted: #5b6670;        /* secondary text, metadata */
+  --ink: #000000;          /* body text */
+  --heading: #002F5F;      /* navy — headings, brand */
+  --paper: #F3F5F8;        /* light blue-gray background */
+  --moss: #002F5F;         /* links */
+  --moss-deep: #9BB2CE;    /* hover — steel blue */
+  --mist: #dde4ec;         /* panels, dividers */
+  --muted: #54595F;        /* secondary text, metadata */
 
-  --font-display: "Bricolage Grotesque", system-ui, sans-serif;
-  --font-body: "Source Serif 4", Georgia, serif;
-  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+  --font-display: "Roboto Slab", Georgia, serif;
+  --font-body: "Roboto", system-ui, sans-serif;
+  --font-mono: "Roboto", system-ui, sans-serif;
 
   --wrap: 46rem;
 
@@ -24,12 +25,13 @@
    Same Icelandic palette, inverted: pale text on basalt. */
 @media (prefers-color-scheme: dark) {
   :root {
-    --ink: #e9ecea;         /* pale mist — text */
-    --paper: #141b22;       /* basalt night — background */
-    --moss: #86bfab;        /* lightened moss for contrast on dark */
-    --moss-deep: #a8d4c3;   /* hover state */
-    --mist: #26303a;        /* panels, dividers */
-    --muted: #9aa6ae;       /* secondary text */
+    --ink: #e9edf2;         /* text */
+    --heading: #c7d6e8;     /* pale navy for headings */
+    --paper: #10161e;       /* navy-black background */
+    --moss: #9BB2CE;        /* links — steel blue */
+    --moss-deep: #c1d2e4;   /* hover */
+    --mist: #1f2937;        /* panels, dividers */
+    --muted: #97a3b3;       /* secondary text */
 
     color-scheme: dark;
   }
@@ -84,6 +86,7 @@ a:hover { color: var(--moss-deep); }
 
 .brand { text-decoration: none; color: var(--ink); }
 .brand-name {
+  color: var(--heading);
   display: block;
   font-family: var(--font-display);
   font-weight: 700;
@@ -143,6 +146,7 @@ a:hover { color: var(--moss-deep); }
 /* ---------- home hero ---------- */
 .hero { padding: 3rem 0 1rem; }
 .hero h1 {
+  color: var(--heading);
   font-family: var(--font-display);
   font-size: clamp(2rem, 5vw, 2.9rem);
   font-weight: 700;
@@ -150,7 +154,7 @@ a:hover { color: var(--moss-deep); }
   letter-spacing: -0.015em;
   margin: 0 0 1.25rem;
 }
-.hero h1 em { font-style: normal; color: var(--moss); }
+.hero h1 em { font-style: italic; color: var(--heading); }
 .hero p { max-width: 38rem; font-size: 1.125rem; }
 .hero-links { margin-top: 1.5rem; display: flex; gap: 1rem; flex-wrap: wrap; }
 .hero-links a {
@@ -205,6 +209,7 @@ a:hover { color: var(--moss-deep); }
 
 /* ---------- article / page body ---------- */
 .page-title, article h1 {
+  color: var(--heading);
   font-family: var(--font-display);
   font-size: clamp(1.8rem, 4.5vw, 2.4rem);
   font-weight: 700;
@@ -215,12 +220,14 @@ a:hover { color: var(--moss-deep); }
 article .post-meta { display: block; margin-bottom: 2rem; }
 
 article h2, .page-body h2 {
+  color: var(--heading);
   font-family: var(--font-display);
   font-weight: 600;
   font-size: 1.45rem;
   margin: 2.25rem 0 0.75rem;
 }
 article h3, .page-body h3 {
+  color: var(--heading);
   font-family: var(--font-display);
   font-weight: 600;
   font-size: 1.15rem;
